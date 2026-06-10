@@ -183,7 +183,9 @@ Create visual representations of the data to communicate insights clearly using 
 
 ### 🖼️ Dashboard Preview
 
-(DataAnalysisDashboard_JohnBlessing.pbix)(project4/dashboard_screenshot.png)
+(DataAnalysisDashboard_JohnBlessing.pbix)
+
+(project4/dashboard_screenshot.png)
 
 ### 🛠️ Tools Used
 - Microsoft Power BI Desktop
