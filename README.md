@@ -104,8 +104,8 @@ Analyse the cleaned dataset to understand patterns, trends, and distributions.
 ### 📁 Files
 ```
 project2/
-├── EDA_Dashboard_JohnBlessing.html    ← Interactive EDA dashboard
-├── KeyInsights_JohnBlessing.html      ← Key insights page
+├── EDA_Dashboard_JohnBlessing.xls    ← EDA dashboard
+├── KeyInsights_JohnBlessing.png      ← Key insights page
 ├── EDA_Presentation_JohnBlessing.pptx ← Presentation slides
 ```
 
