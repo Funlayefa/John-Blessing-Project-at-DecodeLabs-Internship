@@ -183,7 +183,7 @@ Create visual representations of the data to communicate insights clearly using 
 
 ### 🖼️ Dashboard Preview
 
-![Data Analysis Dashboard](project4/dashboard_screenshot.png)
+![E-commerce Dashboard](project4/dashboard_screenshot.png)
 
 ### 🛠️ Tools Used
 - Microsoft Power BI Desktop
