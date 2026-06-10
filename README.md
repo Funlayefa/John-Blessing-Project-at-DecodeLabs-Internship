@@ -183,7 +183,7 @@ Create visual representations of the data to communicate insights clearly using 
 
 ### 🖼️ Dashboard Preview
 
-![E-commerce Dashboard](project4/dashboard_screenshot.png)
+(DataAnalysisDashboard_JohnBlessing.pbix)(project4/dashboard_screenshot.png)
 
 ### 🛠️ Tools Used
 - Microsoft Power BI Desktop
@@ -279,7 +279,6 @@ Across all 4 projects, the following critical insights were consistently identif
 ├── project2/
 │   ├── EDA_Dashboard_JohnBlessing.html
 │   ├── KeyInsights_JohnBlessing.html
-│   └── EDA_Presentation_JohnBlessing.pptx
 ├── project3/
 │   ├── Project3_SQL_JohnBlessing.sql
 │   ├── Project3_Report_JohnBlessing.docx
@@ -294,7 +293,7 @@ Across all 4 projects, the following critical insights were consistently identif
 2. Open `dataset/Data_Project_2.xlsx` to view the raw data
 3. Open `.sql` file in SQL Server or DB Browser to run queries
 4. Open `.pbix` file in Power BI Desktop to interact with the dashboard
-5. Open `.html` files in any browser to view EDA outputs
+5. Open `.xlxs` files in Excel to view EDA outputs
 
 ---
 
@@ -303,7 +302,7 @@ Across all 4 projects, the following critical insights were consistently identif
 **John Blessing**
 Data Analyst | June 2026
 
-[![GitHub](https://img.shields.io/badge/GitHub-johnblessing-181717?style=flat&logo=github)](https://github.com/johnblessing)
+[GitHub](https://img.shields.io/badge/GitHub-johnblessing-181717?style=flat&logo=github)(https://github.com/johnblessing)
 
 ---
 
